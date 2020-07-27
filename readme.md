@@ -1,6 +1,6 @@
 # QA Processing tool
 
-This repository includes the QA processing for medical image sessions. There are some experiences and suggestions to deal with the files downloaded from * *. The function modules are located in *QA_tool.py*, and the examples in *test_example.py*. 
+This repository includes the QA processing for medical image sessions. There are some experiences and suggestions to deal with the files downloaded from *****. The function modules are located in *QA_tool.py*, and the examples in *test_example.py*. 
 
 Please open a issue, or contact *********** if you have any issues or suggestions. 
 
@@ -17,7 +17,7 @@ We also show a mini machine learning study here. The comparison of predicted can
 
 ## 2. Steps for QA
 
-**Here is the instruction downloading data from our school platform, anonymous in the submission**
+** Here should the instructions downloading data from our database, which are not shown in anonymous submission **
 
 The following steps code can be found at *test_example.py*. 
 
