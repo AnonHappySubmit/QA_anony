@@ -2,7 +2,7 @@
 
 This repository includes the QA processing for medical image sessions. There are some experiences and suggestions to deal with the files downloaded from *****. The function modules are located in *QA_tool.py*, and the examples in *test_example.py*. 
 
-Please open a issue, or contact *********** if you have any issues or suggestions. 
+**The respository is currently anonymous. More details will be provided after the work get published**.
 
 ## 1. Big Picture
 
@@ -10,7 +10,7 @@ Please open a issue, or contact *********** if you have any issues or suggestion
 Above is the problem figure: Potentially misleading interpretation of a low-quality image. (a) The complete image with a pulmonary nodule highlighted within the red circle. (b) The same image with a few slices missing. The image from (b) can be misinterpreted as lacking a pulmonary nodule to human reviewers and AI algorithms alike.
 
 <img src="/example_image/Framework.png" width="600">
-We introduce this QA framework, which includes bbjective assessment on DICOM and NIfTI, subjective assessment with batch are included.
+We introduce this QA framework, which includes objective assessment on DICOM and NIfTI, subjective assessment with batch.
 
 <img src="/example_image/MiniStudy.png" width="800">
 We also show a mini machine learning study here. The comparison of predicted cancer probability of complete scan and slices-lost scan. The scans are all from cancer patients. The slices-lost is caused by data transfer problems, and re-transfer make the scan complete.
